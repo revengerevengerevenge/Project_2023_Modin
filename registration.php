@@ -32,6 +32,7 @@
         
             </div>
             <form class="px-7 pb-7" method="post" action="insertdata.php">
+            <form class="px-7 pb-7" method="post" action="account.html">
                 <div class="mb-5">
                     <label for="email" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Ваш email
                     <input type="email" name="email" id="email" class="shadow-sm bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500 dark:shadow-sm-light" placeholder="ivanov1234@mail.ru" required>
